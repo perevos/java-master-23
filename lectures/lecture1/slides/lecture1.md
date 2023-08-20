@@ -2,7 +2,6 @@
 marp: true
 paginate: true
 theme: default
---class: invert
 math: katex
 ---
 
