@@ -565,8 +565,8 @@ String str = "Привет";
 - чтение символа строки по индексу:
 
   ```java
-  char firstLetter = str.chartAt(0); // 'П'
-  char lastLetter  = str.chartAt(5); // 'т'
+  char firstLetter = str.charAt(0); // 'П'
+  char lastLetter  = str.charAt(5); // 'т'
   ```
 
 - обход строки (по *индексам* символов)
@@ -605,7 +605,7 @@ String str = "Привет";
   ```java
   boolean startsWith = str.startsWith("Пр"); // true
   boolean contains = str.contains("рив"); // true
-  boolean endsWith = str.contains("вет"); // true
+  boolean endsWith = str.endsWith("вет"); // true
   ```
 
 - замена подстроки
