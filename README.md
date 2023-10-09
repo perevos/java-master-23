@@ -11,7 +11,7 @@
 | 06.09.23 | Введение                              | [pdf](lectures/lecture1/slides/lecture1.pdf) |
 | 27.09.23 | Базовые конструкции                   | [pdf](lectures/lecture2/slides/lecture2.pdf) |
 | 04.10.23 | ООП                                   | [pdf](lectures/lecture3/slides/lecture3.pdf) |
-| 11.10.23 | Ввод и вывод данных, обработка ошибок |                                              |
+| 11.10.23 | Обработка ошибоки исключений          | [pdf](lectures/lecture4/slides/lecture4.pdf) |
 | 18.10.23 | Коллекции и Stream API                |                                              |
 | ...      | ...                                   |                                              |
 | ...      | ...                                   |                                              |
