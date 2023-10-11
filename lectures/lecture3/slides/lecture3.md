@@ -703,7 +703,7 @@ interface FileStorage {
 
 ```java
 // Хранение данных на локальном компьютере
-class LocalStorage extends Student {
+class LocalStorage implements FileStorage {
     String folder = "C:\\Users\\Deyeneris\\SecretStorage";
 
     @Override
@@ -718,7 +718,7 @@ class LocalStorage extends Student {
 
 ```java
 // Хранение данных в облачном сервисе
-class CloudStorage extends Student {
+class CloudStorage implements FileStorage {
     String storageUrl = "https://...";
     String storageUserName = "deyeneris";
     String storageUserPassword = "qwerty";
