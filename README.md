@@ -12,9 +12,9 @@
 | 27.09.23 | Базовые конструкции                   | [pdf](lectures/lecture2/slides/lecture2.pdf) |
 | 04.10.23 | ООП                                   | [pdf](lectures/lecture3/slides/lecture3.pdf) |
 | 11.10.23 | Обработка ошибок и исключений         | [pdf](lectures/lecture4/slides/lecture4.pdf) |
-| 18.10.23 | Коллекции и Stream API                |                                              |
-| ...      | ...                                   |                                              |
-| ...      | ...                                   |                                              |
+| 25.10.23 | Шаблоны, коллекции и Stream API       | [pdf](lectures/lecture5/slides/lecture5.pdf) |
+| 01.10.23 | Обзор фреймворка Spring: часть 1      |                                              |
+| 08.11.23 | Обзор фреймворка Spring: часть 2      |                                              |
 
 #### Практикум
 
